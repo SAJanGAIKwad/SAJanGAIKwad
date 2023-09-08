@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 I am Sajan and I am a skilled web developer with a passion for creating dynamic and user-friendly web applications. I bring a versatile skill set to every project I tackle. My expertise includes React for building interactive front-end interfaces, Express for developing robust back-end systems, and a solid foundation in C, C++, Java, and Python for versatile programming tasks. In addition to my programming abilities, I have a strong grasp of database management, with experience in MySQL and MongoDB, and I use my database skills to ensure optimal performance.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAJanGAIKwad)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAJanGAIKwad&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔥 My Stats
 
